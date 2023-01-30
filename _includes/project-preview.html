@@ -1,0 +1,18 @@
+<a 
+href="{{ project.url }}" 
+class="
+project-preview block relative rounded-lg bg-blue-800 overflow-hidden group 
+{% if project.highlight %}md:row-span-2 md:col-span-2 max-md:h-48{% else %}h-48{% endif %}
+{% if project.highlight and firstFree %}order-first{% assign firstFree = false %}{% else %}order-none{% endif %}"
+data-categorie="{{project.categorie}}"
+{% if project.highlight %}data-highlight{% endif %}
+>
+    <div class="absolute inset-0">
+        <img class="object-cover h-full w-full group-hover:scale-110 transition-all ease-out duration-300" src="{{ project.preview }}" alt="" srcset="">
+    </div>
+    <div class="absolute inset-0 bg-gradient-to-b from-black opacity-60"></div>
+    <div class="absolute p-5">
+        <span class="text-neutral-200 font-bold text-sm uppercase">{{ project.period }} - {{ project.type }}</span>
+        <p class="font-bold uppercase text-lg text-white">{{ project.title }}</p>
+    </div>
+</a>
