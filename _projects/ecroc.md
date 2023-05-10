@@ -1,25 +1,32 @@
 ---
-title: Ecroc
-type: Application web
-preview: /images/preview-min/preview-ecroc.jpg
-description: Ecroc est un projet réalisé par une équipe de 5 personnes ayant pour but d’automatiser la distribution de nourriture pour son chien. La réalisation de ce projet constitue une de nos notes pour notre baccalauréat STI2D option SIN.
-images-desktop: [
-    '/images/preview-ecroc.png'
-]
-images-mobile: [
-    '/images/preview-ecroc.png'
-]
-github: https://github.com/romaric-g/Ecroc
 period: 2019
-tags: ['front','back','hardware']
-credits: ["Kylian Artonne", "Tanguy Delouche", "Andy Albaladejo", "Valentin"]
-credits-link: [
-    "https://www.linkedin.com/in/kylian-artonne-4236b1176/",
-    "https://www.linkedin.com/in/tanguy-delouche-2675291a6/?originalSubdomain=fr",
-    "",
-    ""
-]
-categorie: "DEVELOPPEMENT"
+github: https://github.com/romaric-g/Ecroc
+images-desktop:
+  - /images/preview-ecroc.png
+preview: /images/preview-min/preview-ecroc.jpg
+credits-link:
+  - https://www.linkedin.com/in/kylian-artonne-4236b1176/
+  - https://www.linkedin.com/in/tanguy-delouche-2675291a6/?originalSubdomain=fr
+  - ""
+  - ""
+categorie: DEVELOPPEMENT
+images-mobile:
+  - /images/preview-ecroc.png
+title: Ecroc CC
+tags:
+  - front
+  - back
+  - hardware
+credits:
+  - Kylian Artonne
+  - Tanguy Delouche
+  - Andy Albaladejo
+  - Valentin
+type: Application web
+description: Ecroc est un projet réalisé par une équipe de 5 personnes ayant
+  pour but d’automatiser la distribution de nourriture pour son chien. La
+  réalisation de ce projet constitue une de nos notes pour notre baccalauréat
+  STI2D option SIN.
 ---
 
 Sa réalisation a nécessité une grande attention au cahier des charges pour que le projet réponde bien aux exigences demandées. Après de nombreuse études (Analyse de l'existant, Réalisation de diagramme, définition du besoin, etc.), nous avons pu commencé à faire une sélection des choix techniques qui pourrait être utilisé.
