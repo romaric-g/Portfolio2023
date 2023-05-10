@@ -9,4 +9,6 @@ collections:
     label: "Project"
     folder: "_projects/"
     fields:
-      - { name: Title }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Type", name: "type", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
