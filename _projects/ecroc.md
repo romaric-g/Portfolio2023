@@ -12,7 +12,7 @@ credits-link:
 categorie: DEVELOPPEMENT
 images-mobile:
   - /images/preview-ecroc.png
-title: Ecroc CC
+title: Ecroc
 tags:
   - front
   - back
