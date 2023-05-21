@@ -3,15 +3,22 @@ permalink: /404.html
 layout: default
 ---
 
-<div class="Page404">
-  <div class="container">
-    {% include menu.html color="light" %}
-    <div class="Page404__inner">
-      <h1 class="Title--n1 Page404__inner__title">404</h1>
-      <p><strong>La page n'existe pas :(</strong></p>
-      <a href="/" class="Button Button--line Button--dark">Retour à l'accueil</a>
+<div class="container" data-editor-404>
+  <section class="flex items-center h-full p-16">
+    <div class="container flex flex-col items-center justify-center px-5 mx-auto my-8">
+      <div class="max-w-md text-center">
+        <h2 class="mb-8 font-extrabold text-9xl dark:text-gray-600">
+          <span class="sr-only">Error</span>404
+        </h2>
+        <p class="text-2xl font-semibold md:text-3xl mt-4 mb-8">Désolé, la page n'existe pas</p>
+        <a rel="noopener noreferrer" href="/" class="d-block py-4 px-8 bg-blue-500 rounded-full font-bold font-sans text-white">Retour à la page d'accueil</a>
+      </div>
     </div>
-  </div>
-  {% include footer.html %}
+  </section>
 </div>
+
+<svg class="fill-blue-500" height="100%" width="100%" viewBox="0 0 1280 136" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path class="fill-blue-500" d="M0 0.000244141L42.6667 10.0586C85.3333 20.3058 170.667 40.1391 256 40.2808C341.333 40.1391 426.667 20.3057 512 32.7252C597.333 45.3335 682.667 90.6668 768 103.275C853.333 115.695 938.667 95.8612 1024 88.164C1109.33 80.7501 1194.67 85.4723 1237.33 88.1639L1280 90.6667L1280 136L1237.33 136C1194.67 136 1109.33 136 1024 136C938.667 136 853.333 136 768 136C682.667 136 597.333 136 512 136C426.667 136 341.333 136 256 136C170.667 136 85.3334 136 42.6667 136L2.3779e-05 136L0 0.000244141Z" fill="#3589D7"/>
+</svg>
+{% include footer.html %}
 

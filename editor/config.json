@@ -1,0 +1,17 @@
+{
+    "selector": {
+        "{path}": "{path}.html",
+        "*": [
+            "_includes/**/*.html",
+            "_layout/**/*.html"
+        ]
+    },
+    "transformer": {
+        "regex": {
+            "replace": {
+                "/className=([\"'])(.*?)\\1/g": "class=$1$2$1",
+                "/href=([\"'])(.*?)\\1/g": "href=\"{url}\""
+            }
+        }
+    }
+}
