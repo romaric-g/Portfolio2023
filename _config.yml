@@ -40,6 +40,7 @@ collections:
   projects:
     output: true
     order:
+      - echec-vision.md
       - laure.md
       - vision.md
       - l-evade.md

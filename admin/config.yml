@@ -14,7 +14,7 @@ collections:
       - { label: "Type", name: "type", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Period", name: "period", widget: "number", default: 2023 }
-      - { label: "Site", name: "site", widget: "string" }
-      - { label: "Github", name: "github", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Site", name: "site", widget: "string", required: false }
+      - { label: "Github", name: "github", widget: "string", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Categorie", name: "categorie", widget: "string" }
