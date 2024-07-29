@@ -2,6 +2,7 @@
 href="{{ project.url }}" 
 class="
 project-preview block relative rounded-lg bg-blue-800 overflow-hidden group 
+{% if project.highlight-shift %}md:col-start-2{% endif %} 
 {% if project.highlight %}md:row-span-2 md:col-span-2 max-md:h-48{% else %}h-48{% endif %}
 {% if project.highlight and firstFree %}order-first{% assign firstFree = false %}{% else %}order-none{% endif %}"
 data-categorie="{{project.categorie}}"
