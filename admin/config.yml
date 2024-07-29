@@ -13,8 +13,32 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Type", name: "type", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Preview Image", name: "preview", widget: "image" }
+      - {
+          label: "Images Desktop",
+          name: "images-desktop",
+          widget: "list",
+          field: { label: "Image", name: "image", widget: "image" },
+        }
+      - {
+          label: "Images Mobile",
+          name: "images-mobile",
+          widget: "list",
+          field: { label: "Image", name: "image", widget: "image" },
+        }
       - { label: "Period", name: "period", widget: "number", default: 2023 }
       - { label: "Site", name: "site", widget: "string" }
       - { label: "Github", name: "github", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "list",
+          field: { label: "Tag", name: "tag", widget: "string" },
+        }
+      - {
+          label: "Highlight",
+          name: "highlight",
+          widget: "boolean",
+          default: false,
+        }
       - { label: "Categorie", name: "categorie", widget: "string" }
