@@ -40,6 +40,7 @@ collections:
   projects:
     output: true
     order:
+      - figma-clone-en-cours.md
       - echec-vision.md
       - laure.md
       - vision.md
