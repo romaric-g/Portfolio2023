@@ -2,6 +2,7 @@
 {% assign skills = "Compétences" %}
 {% assign background = "Parcours" %}
 {% assign works = "Réalisations" %}
+{% assign contact_me = "Me contacter" %}
 
 {% assign target_fr_page = "/" %}
 {% assign target_en_page = "/en" %}
@@ -11,6 +12,7 @@
 {% assign skills = "Skills" %}
 {% assign background = "Background" %}
 {% assign works = "Projects" %}
+{% assign contact_me = "Contact me" %}
 {% endif %}
 
 {% if page.ref %}
@@ -99,7 +101,7 @@
 
         </div>
         <a class="flex border border-blue-500 rounded-full h-full items-center px-2" href="#contact">
-            <span class="text-blue-500 font-bold px-2">Me contacter</span>
+            <span class="text-blue-500 font-bold px-2">{{ contact_me }}</span>
             <img class="h-7" src="{{ './images/photo rond.png' | relative_url }}" alt="" srcset="">
         </a>
     </div>
