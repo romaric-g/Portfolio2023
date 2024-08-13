@@ -6,7 +6,7 @@ backend:
 media_folder: "assets/uploads"
 collections:
   - name: "project"
-    sortable_fields: ['title', 'fields.lang']
+    sortable_fields: ['title', 'lang']
     label: "Project"
     folder: "_projects/"
     create: true
