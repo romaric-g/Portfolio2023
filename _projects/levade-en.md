@@ -1,9 +1,8 @@
 ---
 title: L’évadé
-type: Expérience interactive
+type: Interactive Experience
 preview: /images/preview-min/preview-evade.jpg
-description: "L'Évadé est un projet réalisé en collaboration avec le Musée des Beaux-Arts de Bordeaux dans le cadre d'une exposition d'histoires interactives mêlant l'art & le rêve.
-Vous incarnez un personnage se réveillant dans la plus grande incompréhension devant un tableau déchiré. Une représentation d'un crime dont le coupable s'est échappé. Vous vous mettez en quête d'interroger les personnages des tableaux voisins dans le but de découvrir une seule et unique chose : la vérité. Saurez-vous découvrir ce qu'il s'est passé ? L'identité du tueur ? Ou encore mieux, où se trouve t-il ?"
+description: "L’évadé is a project carried out in collaboration with the Musée des Beaux-Arts de Bordeaux as part of an exhibition of interactive stories blending art & dreams. You play as a character waking up in utter confusion in front of a torn painting. A depiction of a crime whose perpetrator has escaped. You set out to question the characters in the neighboring paintings to discover one thing and one thing only: the truth. Will you be able to uncover what happened? The identity of the killer? Or even better, where they are?"
 images-desktop: [
     '/images/evade/web/evade-1.png',
     '/images/evade/web/evade-2.png',
@@ -17,7 +16,7 @@ images-mobile: [
 site: https://reve-et-ville.netlify.app/
 github: https://github.com/romaric-g/ReveEtVille
 period: 2020
-tags: ['front','expérience']
+tags: ['front', 'experience']
 credits: ["Maxime Lauer", "Julie Joaquim", "Malvina Brauge", "Eva Van Der Erve", "Lucie Canton"]
 credits-link: [
     "https://fr.linkedin.com/in/maxime-la%C3%BCer-b58776194",
@@ -26,7 +25,7 @@ credits-link: [
     "https://fr.linkedin.com/in/eva-van-der-erve-5b0776194",
     "https://luciecanton.fr/"
 ]
-categorie: "DEVELOPPEMENT"
+categorie: "DEVELOPMENT"
 ref: "levade"
-lang: fr
+lang: en
 ---

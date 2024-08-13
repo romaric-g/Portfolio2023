@@ -1,4 +1,9 @@
 ---
+title: Ecroc
+description: Ecroc est un projet réalisé par une équipe de 5 personnes ayant
+  pour but d’automatiser la distribution de nourriture pour son chien. La
+  réalisation de ce projet constitue une de nos notes pour notre baccalauréat
+  STI2D option SIN.
 period: 2019
 github: https://github.com/romaric-g/Ecroc
 images-desktop:
@@ -12,7 +17,6 @@ credits-link:
 categorie: DEVELOPPEMENT
 images-mobile:
   - /images/preview-ecroc.png
-title: Ecroc
 tags:
   - front
   - back
@@ -23,10 +27,8 @@ credits:
   - Andy Albaladejo
   - Valentin
 type: Application web
-description: Ecroc est un projet réalisé par une équipe de 5 personnes ayant
-  pour but d’automatiser la distribution de nourriture pour son chien. La
-  réalisation de ce projet constitue une de nos notes pour notre baccalauréat
-  STI2D option SIN.
+ref: "ecroc"
+lang: fr
 ---
 
 Sa réalisation a nécessité une grande attention au cahier des charges pour que le projet réponde bien aux exigences demandées. Après de nombreuse études (Analyse de l'existant, Réalisation de diagramme, définition du besoin, etc.), nous avons pu commencé à faire une sélection des choix techniques qui pourrait être utilisé.

@@ -18,4 +18,6 @@ site: "https://uxdesign.netlify.app/"
 github: https://github.com/romaric-g/OutilsMethodsUXDesign
 tags: ["web","UI","UX"]
 categorie: "DEVELOPPEMENT"
+ref: "ux-design"
+lang: fr
 ---

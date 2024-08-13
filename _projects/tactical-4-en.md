@@ -11,7 +11,7 @@ preview: /images/preview-min/preview-tactical4.jpg
 credits-link:
   - https://antoinetardivel.poeticwave.fr/projets/tactical4
 highlight: true
-categorie: DEVELOPPEMENT
+categorie: DEVELOPMENT
 images-mobile:
   - /images/tactical4/mobile/tactical-1.png
   - /images/tactical4/mobile/tactical-2.png
@@ -24,11 +24,8 @@ tags:
   - UI
 credits:
   - Antoine Tardivel
-type: Jeu mobile en ligne
-description: Pour combler votre ennui pendant le confinement nous avons
-  développé Tactical4. C’est un jeu en ligne basé sur le jeu puissance 4. Il
-  vous permet de créer des parties en ligne et donc de jouer à distance, avec
-  vos amis sur n’importe quel support.
+type: Online Mobile Game
+description: To keep you entertained during the lockdown, we developed Tactical4. It’s an online game based on Connect Four. It allows you to create online games and thus play remotely with your friends on any device.
 ref: "tactical-4"
-lang: fr
+lang: en
 ---

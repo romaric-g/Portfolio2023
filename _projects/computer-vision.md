@@ -10,5 +10,7 @@ period: 2022
 github: https://github.com/romaric-g/projet-signal
 tags: ["Traitement du signal","Matlab"]
 categorie: "DATASCIENCE"
+ref: "computer-vision"
+lang: fr
 ---
 

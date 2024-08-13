@@ -2,7 +2,7 @@
 title: La pression Bordelaise
 type: Blog
 preview: /images/preview-min/preview-la-pression-bordelaise.jpg
-description: Blog sur la thématique de la bière à Bordeaux. Réalisé from scratch avec php et mySQL
+description: Blog on the theme of beer in Bordeaux. Created from scratch with PHP and MySQL
 images-desktop: [
     '/images/lpb/web/lpb-1.png',
     '/images/lpb/web/lpb-2.png',
@@ -18,7 +18,7 @@ images-mobile: [
 period: 2020
 github: "https://github.com/romaric-g/BlogArt"
 tags: ["web","server","UI"]
-categorie: "DEVELOPPEMENT"
+categorie: "DEVELOPMENT"
 ref: "la-pression-bordelaise"
-lang: fr
+lang: en
 ---

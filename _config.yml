@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Romaric GAUZI
+email: romaric.gauzi1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Portfolio de Romaric GAUZI, ingénieur informatique spécialité en IA 
+  et en développement logiciel
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+github_username: romaric-g
+lang: fr
 
 # Build settings
 plugins:
@@ -40,16 +39,16 @@ collections:
   projects:
     output: true
     order:
-      - figma-clone-en-cours.md
+      - figma-clone.md
       - echec-vision.md
       - laure.md
-      - vision.md
-      - l-evade.md
+      - computer-vision.md
       - portfolio-2020.md
       - tactical-4.md
       - elena-koutoulidis.md
       - quiz-app.md
       - la-pression-bordelaise.md
+      - levade.md
       - ux-design.md
       - ecroc.md
 

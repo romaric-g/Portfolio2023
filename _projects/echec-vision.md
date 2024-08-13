@@ -11,4 +11,6 @@ github: https://github.com/romaric-g/EchecVision
 tags: ["Python", "OpenCV"]
 categorie: "DATASCIENCE"
 highlight: true
+ref: "echec-vision"
+lang: fr
 ---

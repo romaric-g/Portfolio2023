@@ -1,8 +1,8 @@
 ---
 title: Laure
-type: Application mobile
+type: Mobile Application
 preview: /images/preview-min/preview-laure-min.png
-description: Laure est une application mobile ayant pour but d'innitier les novices au brassage de bière
+description: Laure is a mobile application aimed at introducing novices to beer brewing
 images-desktop:
   [
     "/images/laure/00.png",
@@ -23,7 +23,7 @@ period: 2023
 tags: ["mobile", "server", "UI"]
 highlight: true
 highlight-shift: true
-categorie: "DEVELOPPEMENT"
+category: "DEVELOPMENT"
 ref: "laure"
-lang: fr
+lang: en
 ---

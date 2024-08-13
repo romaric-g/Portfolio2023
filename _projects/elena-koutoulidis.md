@@ -13,4 +13,6 @@ period: 2020
 site: "https://www.elenakoutoulidis.com/"
 tags: ["web","UI","CMS"]
 categorie: "DEVELOPPEMENT"
+ref: "elena-koutoulidis"
+lang: fr
 ---

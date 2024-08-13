@@ -11,6 +11,8 @@ tags: ["mobile", "android"]
 highlight: true
 highlight-shift: true
 categorie: "DEVELOPPEMENT"
+ref: "quiz-app"
+lang: fr
 ---
 
 Le projet a été initié par le laboratoire tech du lycée de Parentis en Born. La mission était simple, faire découvrir aux élèves la ville et les grands lieux qu'elle renferme. Celle-ci sera utilisé pour le grand départ en espagne de 2019.
