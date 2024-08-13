@@ -1,29 +1,31 @@
 ---
+preview: /assets/uploads/laure-miniature-en-min.png
+images-desktop:
+  - /assets/uploads/laure-en-1-.jpg
+  - /assets/uploads/laure-en-2-.jpg
+  - /assets/uploads/laure-en-3-.jpg
+  - /assets/uploads/laure-en-4-.jpg
+  - /assets/uploads/laure-en-5-.jpg
+  - /assets/uploads/laure-en-6-.jpg
+period: 2023
+highlight-shift: true
+lang: en
+ref: laure
+highlight: true
 title: Laure
 type: Mobile Application
-preview: /images/preview-min/preview-laure-min.png
 description: Laure is a mobile application aimed at introducing novices to beer brewing
-images-desktop:
-  [
-    "/images/laure/00.png",
-    "/images/laure/01.png",
-    "/images/laure/02.png",
-    "/images/laure/03.png",
-    "/images/laure/04.png",
-  ]
 images-mobile:
-  [
-    "/images/laure/00.png",
-    "/images/laure/01.png",
-    "/images/laure/02.png",
-    "/images/laure/03.png",
-    "/images/laure/04.png",
-  ]
-period: 2023
-tags: ["mobile", "server", "UI"]
-highlight: true
-highlight-shift: true
-category: "DEVELOPMENT"
-ref: "laure"
-lang: en
+  - /assets/uploads/laure-en-1-.jpg
+  - /assets/uploads/laure-en-2-.jpg
+  - /assets/uploads/laure-en-3-.jpg
+  - /assets/uploads/laure-en-4-.jpg
+  - /assets/uploads/laure-en-5-.jpg
+  - /assets/uploads/laure-en-6-.jpg
+tags:
+  - mobile
+  - server
+  - UI
+categorie: DEVELOPPEMENT
+category: DEVELOPMENT
 ---
