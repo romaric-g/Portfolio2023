@@ -1,5 +1,5 @@
 ---
-title: Izentis en
+title: Izentis
 type: Web application
 description: Izentis is an innovative online booking solution designed to
   simplify equipment rental management for businesses. By offering an intuitive
@@ -15,4 +15,5 @@ period: 2023
 site: https://izentis.vercel.app/#solution
 categorie: DEVELOPPEMENT
 ref: izentis
+lang: en
 ---
