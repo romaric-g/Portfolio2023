@@ -1,5 +1,5 @@
 ---
-title: Figma Clone (In Progress)
+title: Figma Clone
 type: Web Application
 description: A scratch-built clone of the Figma design editor
 preview: /assets/uploads/figma-clone-illu-min-1-.png
@@ -10,8 +10,8 @@ images-mobile:
 period: 2024
 site: https://figma-editor-clone.netlify.app/
 github: https://github.com/romaric-g/figmaclone
+lang: en
+ref: figma-clone
 tags: []
 categorie: DEVELOPMENT
-ref: "figma-clone"
-lang: en
 ---
