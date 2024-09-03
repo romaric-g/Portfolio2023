@@ -1,7 +1,7 @@
 ---
 title: Izentis
 type: Application web
-description: "Voici une description d'Izentis en deux lignes :    Izentis est
+description: "Izentis est
   une solution innovante de réservation en ligne, conçue pour simplifier la
   gestion des locations de matériel pour les entreprises. En offrant une
   plateforme intuitive et personnalisable, Izentis permet aux propriétaires de
